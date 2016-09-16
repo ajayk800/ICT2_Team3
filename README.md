@@ -1,4 +1,5 @@
 # ICT2_Team3
 
+Web project on online shopping website
 
-Beta Release Files in Here!
+Final Release Files in Here!
