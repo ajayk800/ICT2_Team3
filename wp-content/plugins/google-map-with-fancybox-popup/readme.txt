@@ -10,9 +10,10 @@ Stable tag: 1.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-It allows you to add a Google Map into popup. Great plugin to display your business location in a Google map or, your personal address in Google Map. 
+It allows you to add a Google Map into popup. Great plugin to display your business location in a Google map or, your personal address in Google Map. Google maps for adding google map api 
 
 == Description ==
+
 
 Check official website for live demo [http://www.gopiplus.com/work/2014/04/26/google-map-with-fancybox-popup-wordpress-plugin/](http://www.gopiplus.com/work/2014/04/26/google-map-with-fancybox-popup-wordpress-plugin/)
 
