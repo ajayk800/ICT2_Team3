@@ -7,7 +7,8 @@ Stable tag: 3.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A simple yet powerful page builder that lets you create a complete WordPress website in just a few minutes
+A simple yet powerful page builder that lets you create a complete WordPress website in just a few minutes. 
+Page builder is an epic plugin.
 
 == Description ==
 
@@ -97,10 +98,10 @@ For further information, product details, help and tutorials, please visit our w
 * Added Setting page for IG PageBuilder
 * Added Options to handle IG Cache
 * Added Premade Template feature
-* Added Class suffix to row and element’s wrapper
+* Added Class suffix to row and elementâ€™s wrapper
 * Fixed table colspan problem
 * Fixed Css overriding bugs
-* Fixed elements’ displaying bugs
+* Fixed elementsâ€™ displaying bugs
 * Fixed Assets enqueue error
 
 = 1.0.9 =
@@ -109,9 +110,9 @@ For further information, product details, help and tutorials, please visit our w
 = 1.0.8 =
 * Fixed Carousel background
 * Fixed Full mode pagebuilder status
-* Fixed Bootstrap conflicts with theme’s css
+* Fixed Bootstrap conflicts with themeâ€™s css
 * Fixed Readmore button not showed
-* Improved Allow item’s heading to be nullable
+* Improved Allow itemâ€™s heading to be nullable
 
 = 1.0.7 =
 * Fixed Tab position not working
@@ -130,7 +131,7 @@ For further information, product details, help and tutorials, please visit our w
 = 1.0.4 =
 * Added ability to disable an element on frontend
 * Improved Editor switching feature
-* Improved Element setting page’s speed
+* Improved Element setting pageâ€™s speed
 * Fixed Minor bugs
 
 = 1.0.3 =
